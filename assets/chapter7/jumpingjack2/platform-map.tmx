@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="10" tilewidth="64" tileheight="64" nextobjectid="45">
+ <tileset firstgid="1" name="platform-tiles-64" tilewidth="64" tileheight="64" tilecount="24">
+  <image source="platform-tiles-64.png" width="512" height="192"/>
+ </tileset>
+ <imagelayer name="Background">
+  <image source="background.png"/>
+ </imagelayer>
+ <layer name="Tiles" width="20" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIMACxKxAzEaBfkJ6YXYgY3LtIwZwU9ksTiqbJYFHngkL5iFgFggzYtGHLI+MuYhQCwDsXAHV
+  </data>
+ </layer>
+ <objectgroup name="ObjectData">
+  <object id="1" name="player" x="166.67" y="458.667" width="53.3333" height="93.3333"/>
+  <object id="2" name="coin" x="784" y="210" width="32" height="32"/>
+  <object id="3" name="coin" x="846.667" y="210" width="32" height="32"/>
+  <object id="4" name="coin" x="908" y="210" width="32" height="32"/>
+  <object id="39" name="coin" x="972" y="210" width="32" height="32"/>
+  <object id="40" name="coin" x="145.333" y="208" width="32" height="32"/>
+  <object id="41" name="coin" x="206.667" y="208" width="32" height="32"/>
+  <object id="42" name="coin" x="396" y="144" width="32" height="32"/>
+  <object id="43" name="coin" x="462.667" y="144" width="32" height="32"/>
+  <object id="44" name="coin" x="526.667" y="145.333" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="PhysicsData">
+  <object id="11" x="-2.66667" y="-25.3333" width="1285.33" height="22.6667"/>
+  <object id="12" x="-28" y="-28" width="26" height="670"/>
+  <object id="13" x="1284" y="-28" width="24" height="666"/>
+  <object id="14" x="8" y="575" width="1301" height="64"/>
+  <object id="19" x="1021" y="511" width="263" height="69"/>
+  <object id="20" x="1087" y="448" width="199" height="61"/>
+  <object id="21" x="1154" y="385" width="128" height="66"/>
+  <object id="22" x="1216" y="321" width="67" height="67"/>
+  <object id="26" x="321.333" y="512" width="445.333" height="64"/>
+  <object id="33" x="705.333" y="258.667" width="380" height="30.6667"/>
+  <object id="34" x="385.333" y="192" width="188" height="33.3333"/>
+  <object id="36" x="129.333" y="256" width="124" height="33.3333"/>
+ </objectgroup>
+</map>

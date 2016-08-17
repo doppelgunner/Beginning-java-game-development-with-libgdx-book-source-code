@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="libgdx-controllers">
+    <CLASSES>
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/gdx-controllers-android.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/gdx-controllers-desktop.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/gdx-controllers-gwt.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/gdx-controllers.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/gdx-controllers-desktop-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/sources/gdx-controllers-android-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/sources/gdx-controllers-desktop-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/sources/gdx-controllers-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/sources/gdx-controllers-gwt-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-controllers/sources/gdx-controllers-gwt-sources.jar!/com/badlogic/gdx/controllers/gwt/emu" />
+    </SOURCES>
+  </library>
+</component>

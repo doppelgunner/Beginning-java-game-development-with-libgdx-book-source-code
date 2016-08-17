@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libgdx-box2d">
+    <CLASSES>
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-box2d/gdx-box2d.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-box2d/gdx-box2d-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-box2d/sources/gdx-box2d-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-box2d/sources/gdx-box2d-gwt-sources.jar!/" />
+      <root url="jar://C:/Programming/programming_tools/libgdx-1.6.1/extensions/gdx-box2d/sources/gdx-box2d-gwt-sources.jar!/com/badlogic/gdx/physics/box2d/gwt/emu" />
+    </SOURCES>
+  </library>
+</component>

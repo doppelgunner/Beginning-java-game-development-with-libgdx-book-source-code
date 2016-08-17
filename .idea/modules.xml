@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeginningJavaGameDevelopmentWithLibgdx.iml" filepath="$PROJECT_DIR$/BeginningJavaGameDevelopmentWithLibgdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CGOL/CGOL.iml" filepath="$PROJECT_DIR$/CGOL/CGOL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/Chapter1.iml" filepath="$PROJECT_DIR$/Chapter1/Chapter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2/Chapter2.iml" filepath="$PROJECT_DIR$/Chapter2/Chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter3/Chapter3.iml" filepath="$PROJECT_DIR$/Chapter3/Chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter4/Chapter4.iml" filepath="$PROJECT_DIR$/Chapter4/Chapter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter7/Chapter7.iml" filepath="$PROJECT_DIR$/Chapter7/Chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter8/Chapter8.iml" filepath="$PROJECT_DIR$/Chapter8/Chapter8.iml" />
+    </modules>
+  </component>
+</project>

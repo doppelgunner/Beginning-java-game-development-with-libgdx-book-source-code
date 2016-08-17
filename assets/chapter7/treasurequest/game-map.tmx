@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" nextobjectid="36">
+ <tileset firstgid="1" name="rpg-tiles-64" tilewidth="64" tileheight="64" tilecount="260">
+  <image source="rpg-tiles-64.png" width="1280" height="832"/>
+ </tileset>
+ <layer name="Background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJy1k8sKAjEMRbNSwVF3XaijVreNCjr//2sToYvQZ6JxcSgl4dCk3C0AvI3YEZ5wRpz/7AsMx07OoYDUx0FDHxr6MLn/4kPI55b+Ryj41sSQsFH874JYEitWvyT4Sm/Jt4/7OAp8aa+lL8Rd93wvyDM6Cd6HjZ4amnnHuOsWJ4VPQ8t3Jx5Kng1fKf+9nKDA18tZrf7xXSHP1LfciBmYwysw
+  </data>
+ </layer>
+ <layer name="Scenery" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgaYCcO8V1Q+i4QP6LA/Hs4xBOBOAoJJ+FxCyGwFYhL0cTKsKjbxoDfP8jixJiHCzzEIhYHxPFQNohOgLK34jHnLh7z8elDBrsIK8EKcMUFsfbSC5DrP1qAwRY2pAJy8x+9AKnhi+6fbUSoR9YDS1uE9NECAABf9BtY
+  </data>
+ </layer>
+ <layer name="Overlay" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgYcBKIz1Gg/xS1HEIlgM8/lPgTGZylkjknaWz+KBgFo2BkAADHSQcq
+  </data>
+ </layer>
+ <objectgroup name="ObjectData">
+  <object id="14" name="coin" x="841.333" y="298.667" width="32" height="32"/>
+  <object id="15" name="coin" x="912" y="297.333" width="32" height="32"/>
+  <object id="16" name="coin" x="982.667" y="296" width="32" height="32"/>
+  <object id="17" name="door" x="896" y="384" width="64" height="64"/>
+  <object id="18" name="key" x="252" y="128" width="72" height="41.3333"/>
+  <object id="28" name="player" x="614.667" y="1040" width="48" height="48"/>
+ </objectgroup>
+ <objectgroup name="PhysicsData">
+  <object id="1" x="766.667" y="196.97" width="24.2424" height="242.424"/>
+  <object id="2" x="1066.67" y="193.939" width="18.1818" height="251.515"/>
+  <object id="3" x="766.667" y="193.333" width="318.667" height="64"/>
+  <object id="6" x="962.667" y="385.333" width="124" height="62.6667"/>
+  <object id="8" x="772" y="384" width="120" height="61.3333"/>
+  <object id="13" x="453.333" y="520" width="370.667" height="304"/>
+  <object id="21" x="129.333" y="320" width="124" height="62.6667"/>
+  <object id="22" x="320" y="446.667" width="61.3333" height="64"/>
+  <object id="23" x="449.333" y="381.333" width="61.3333" height="65.3333"/>
+  <object id="24" x="577.333" y="318.667" width="60" height="65.3333"/>
+  <object id="25" x="704" y="448" width="64" height="65.3333"/>
+  <object id="26" x="641.333" y="125" width="124" height="62.9997"/>
+  <object id="27" x="385.333" y="193.333" width="60" height="61.3333"/>
+  <object id="29" x="0" y="-2" width="1278" height="54"/>
+  <object id="30" x="0" y="1216" width="1278" height="54"/>
+  <object id="31" x="1280" y="1270" width="2"/>
+  <object id="33" x="0" y="0" width="54" height="1274"/>
+  <object id="35" x="1218" y="0" width="64" height="1272"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="10" tilewidth="64" tileheight="64" nextobjectid="65">
+ <tileset firstgid="1" name="platform-tiles-64" tilewidth="64" tileheight="64" tilecount="24" columns="8">
+  <image source="platform-tiles-64.png" width="512" height="192"/>
+ </tileset>
+ <imagelayer name="Background">
+  <image source="background.png" width="1280" height="640"/>
+ </imagelayer>
+ <layer name="Tiles" width="20" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBjcgA2IeWhgLisUE6OGGLXU0EctwA3EzAzUCzdeIBYAYj4quQeXeSB1THgwLv3IfGT1nFBxXJgLTR02PgBe4wId
+  </data>
+ </layer>
+ <objectgroup name="ObjectData">
+  <object id="3" name="player" x="58" y="450" width="72" height="114"/>
+  <object id="28" name="coin" x="320" y="194" width="64" height="56"/>
+  <object id="35" name="coin" x="390" y="194" width="64" height="56"/>
+  <object id="36" name="coin" x="460" y="194" width="64" height="56"/>
+  <object id="37" name="coin" x="706" y="130" width="64" height="56"/>
+  <object id="38" name="coin" x="768" y="130" width="64" height="56"/>
+  <object id="39" name="coin" x="904" y="130" width="64" height="56"/>
+  <object id="40" name="coin" x="838" y="130" width="64" height="56"/>
+  <object id="41" name="coin" x="980" y="164" width="64" height="56"/>
+  <object id="42" name="coin" x="1046" y="232" width="64" height="56"/>
+  <object id="43" name="coin" x="196" y="94" width="64" height="56"/>
+  <object id="44" name="coin" x="102" y="58" width="64" height="56"/>
+ </objectgroup>
+ <objectgroup name="PhysicsData">
+  <object id="53" x="-63.6364" y="-12.1212" width="57.5758" height="651.515"/>
+  <object id="54" x="0" y="581.818" width="1278.79" height="51.5152"/>
+  <object id="55" x="836.364" y="442.424" width="181.818" height="133.333"/>
+  <object id="56" x="1087.88" y="318.182" width="184.848" height="254.545"/>
+  <object id="57" x="1278.79" y="-3.0303" width="66.6667" height="639.394"/>
+  <object id="58" x="-69.697" y="-51.5152" width="1415.15" height="51.5152"/>
+  <object id="59" x="193.939" y="509.091" width="569.697" height="69.697"/>
+  <object id="60" x="-3.0303" y="127.273" width="121.212" height="33.3333"/>
+  <object id="61" x="72.7273" y="157.576" width="51.5152" height="30.303"/>
+  <object id="62" x="133.333" y="184.848" width="112.121" height="39.3939"/>
+  <object id="63" x="324.242" y="257.576" width="248.485" height="27.2727"/>
+  <object id="64" x="709.091" y="193.939" width="245.455" height="30.303"/>
+ </objectgroup>
+</map>
